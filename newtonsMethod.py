@@ -1,5 +1,6 @@
 # this program finds the root of a differentiable function f(x) via Newton's Method
 # a separate function sqrt(x) is included utilizing Newton's Method to find square roots
+
 import sys
 
 def newtonsMethod():
