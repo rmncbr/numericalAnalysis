@@ -2,6 +2,7 @@
 # a separate function sqrt(x) is included utilizing Newton's Method to find square roots
 
 import sys
+
 def newtonsMethod():
     oldEst = 1                          # initial guess
     tol = 0.5 * (10 ** -8)              # tolerance - change for desired tolerance
