@@ -1,5 +1,7 @@
 # this program solves a system of equations by using Gaussian Elimination.
+
 import sys
+
 def gaussianElimination():
     # basic info about the matrix
     A = [[-2, -4, 6, 1, -6, 4, 1, -6, 47],                   # defining a 2 dimensional array of doubles
